@@ -909,7 +909,7 @@
         {
          "columns":7,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/deco_minideko.png",
+         "image":"deco_minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -922,7 +922,7 @@
         {
          "columns":10,
          "firstgid":412,
-         "image":"..\/..\/..\/Downloads\/deco_rc3-mullana-restroom-party.png",
+         "image":"deco_rc3-mullana-restroom-party.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -935,7 +935,7 @@
         {
          "columns":16,
          "firstgid":512,
-         "image":"..\/..\/..\/Downloads\/deco_rc3-mullana-objects.png",
+         "image":"deco_rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -948,7 +948,7 @@
         {
          "columns":16,
          "firstgid":640,
-         "image":"..\/..\/..\/Downloads\/general.png",
+         "image":"general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -961,7 +961,7 @@
         {
          "columns":18,
          "firstgid":896,
-         "image":"..\/..\/..\/Downloads\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -974,7 +974,7 @@
         {
          "columns":32,
          "firstgid":3290,
-         "image":"..\/..\/..\/Downloads\/deco_rc3-mullana-foyer.png",
+         "image":"deco_rc3-mullana-foyer.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -987,7 +987,7 @@
         {
          "columns":11,
          "firstgid":4314,
-         "image":"..\/..\/..\/Downloads\/tileset1.png",
+         "image":"Downloads\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -1000,7 +1000,7 @@
         {
          "columns":100,
          "firstgid":4435,
-         "image":"..\/..\/..\/Downloads\/tileset.png",
+         "image":"Downloads\/tileset.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
