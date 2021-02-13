@@ -987,7 +987,7 @@
         {
          "columns":11,
          "firstgid":4314,
-         "image":"Downloads\/tileset1.png",
+         "image":"tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -1000,7 +1000,7 @@
         {
          "columns":100,
          "firstgid":4435,
-         "image":"Downloads\/tileset.png",
+         "image":"tileset.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
