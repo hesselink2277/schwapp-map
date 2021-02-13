@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hearthis.at\/thehilk\/live\/eYs"
+                 "value":"https:\/\/app.hearthis.at\/thehilk\/live\/embed\/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=1&css="
                 }],
          "type":"tilelayer",
          "visible":true,
