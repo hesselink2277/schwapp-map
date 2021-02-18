@@ -522,11 +522,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Schr\u00f6dingersKatze"
@@ -1994,6 +1989,19 @@
          "imagewidth":128,
          "margin":0,
          "name":"katzen",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":14447,
+         "image":"schroedinger.png",
+         "imageheight":32,
+         "imagewidth":128,
+         "margin":0,
+         "name":"schroedinger",
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
