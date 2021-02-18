@@ -243,7 +243,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Katze.mp3"
+                 "value":"sounds\/katze.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -459,7 +459,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/bier.mp3"
+                 "value":"sounds\/kassierer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
