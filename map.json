@@ -238,12 +238,12 @@
          "height":34,
          "id":47,
          "name":"sound_katze",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/katze.mp3"
+                 "value":"sounds\/cat.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
