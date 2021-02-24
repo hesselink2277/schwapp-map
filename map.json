@@ -69,12 +69,6 @@
          "id":21,
          "name":"dancefloor",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/tiny.cc\/1l7mtz"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -87,12 +81,6 @@
          "id":40,
          "name":"lounge",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/tiny.cc\/3l7mtz"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
